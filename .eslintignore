@@ -1,0 +1,5 @@
+*.test.js
+node
+node_modules
+coverage
+src/plugins/
